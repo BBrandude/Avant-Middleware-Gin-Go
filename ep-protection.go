@@ -1,4 +1,4 @@
-package middlewares
+package avantsecure
 
 import (
 	"encoding/json"
